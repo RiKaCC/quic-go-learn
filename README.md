@@ -2,7 +2,6 @@
 DialAddr()     // establishes a new QUIC connection to a server
 Dial()         // Dial establishes a new QUIC connection to a server using a net.PacketConn
 ```
-```
 
 ```
 func DialAddr(
